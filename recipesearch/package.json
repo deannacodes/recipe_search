@@ -1,0 +1,15 @@
+{
+  "name": "recipesearch",
+  "version": "1.0.0",
+  "description": "suggests recipes based on your ingredients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deanna streffer",
+  "license": "ISC",
+  "dependencies": {
+    "hyperlinker": "^1.0.0",
+    "inquirer": "^6.2.2"
+  }
+}
